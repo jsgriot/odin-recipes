@@ -10,3 +10,5 @@ Add Recipes and Images
 
 Make pages for noodles, pizza and rockfish with images
 Link main index page to recipes
+
+Add styles to the recipes pages and moved images dir into the root dir
